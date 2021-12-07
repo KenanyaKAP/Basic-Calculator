@@ -12,7 +12,7 @@ int main(){
     char oper[512]; int operCount = 0; // Buat tampungan operator saat nanti dipisah-pisah
     
     printf("Masukan Input: "); // Memasukkan Input
-    // scanf("%[^\n]", &input);
+    scanf("%[^\n]", &input);
 
     // Menghilangkan spasi pada input
     int inputCount = 0;
