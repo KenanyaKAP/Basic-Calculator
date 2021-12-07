@@ -3,7 +3,8 @@
 > #### Program dibuat berdasarkan pengalaman dan TIDAK sempurna
 > #### Dimohon untuk tidak hanya mengCOPY-PASTE source code
 > #### Dimohon untuk memahami program agar bisa membuat versi sendiri
-> #### Segala kemiripan kode ditanggung penumpang :D
+> #### Dimohon juga untuk memodifikasi kode agar tidak sama
+> #### Segala kemiripan kode ditanggung sendiri-sendiri ya :D
 
 ## Terdapat 3 program yang ada dalam repository ini
 1. Program dengan [1 Bonus](https://github.com/KenanyaKAP/Basic-Calculator/tree/main/1%20Bonus#disclaimer). Program sangat basic dan susah untuk dikembangkan.
