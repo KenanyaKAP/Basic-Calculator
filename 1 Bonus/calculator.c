@@ -31,24 +31,3 @@ int main(){
     printf("Hasil akhir: %d\n", sum);
     return 0;
 }
-
-/*
-Logika berpikir:
-Secara default sum = 0 dan operator = '+'
-Ambil angka dulu, lalu dioperasikan ke sum
-(karena operator awal +, maka sum akan bernilai angka pertama)
-lalu ambil operator selanjutnya
-
-kembali lagi keatas
-ambil angka, lalu operasikan ke sum
-bila operator +, sum += value
-bila operator -, sum -= value
-ambil operator selanjutnya lagi
-
-dilakukan terus menerus
-sampai bila operator bernilai '\n'
-yaitu apabila pengguna menekan enter
-maka break / keluar loop
-
-lalu cetak hasil
-*/
