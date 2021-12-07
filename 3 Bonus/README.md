@@ -5,7 +5,7 @@
 
 ## Bonus Poin
 1. Bonus jika bisa menginputkan angka yang jumlah digitnya lebih dari 1. Contoh 11 + 2 + 123 = 136
-2. Bonus jika bisa mengimplementasikan simbol kali “*” dan bagi “/”. Contohnya   1 + 2 * 3 - 4 = 3. (ingat 2*3 dilakukan lebih dulu)
+2. Bonus jika bisa mengimplementasikan simbol kali “\*” dan bagi “/”. Contohnya   1 + 2 * 3 - 4 = 3. (ingat 2*3 dilakukan lebih dulu)
 3. Bonus jika dapat mendeteksi apakah ekspresi yang dimasukan valid atau tidak. Contoh 2 + + 3 itu tidak valid
 
 ## Program
