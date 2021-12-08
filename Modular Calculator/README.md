@@ -116,7 +116,7 @@ Dst
     input[j] = '\0';
 ```
 - Penjelasan:
-- Sama dengan [modul 1](https://github.com/KenanyaKAP/Basic-Calculator/new/main#1) hanya saja menggunakan versi while
+- Sama dengan [Modul 1](https://github.com/KenanyaKAP/Basic-Calculator/tree/main/Modular%20Calculator#1) hanya saja menggunakan versi while
 - Bisa dicoba juga untuk membuat versi sendiri
 
 ### 3.
@@ -168,7 +168,7 @@ Dst
     }
 ```
 - Penjelasan:
-- Sama dengan [modul 3](https://github.com/KenanyaKAP/Basic-Calculator/new/main#3) hanya saja menggunakan versi while
+- Sama dengan [Modul 3](https://github.com/KenanyaKAP/Basic-Calculator/tree/main/Modular%20Calculator#3) hanya saja menggunakan versi while
 - Bisa dicoba juga untuk membuat versi sendiri
 
 # Modul Validasi Input
@@ -289,7 +289,7 @@ Dst
     }
 ```
 - Penjelasan:
-- Sama persis dengan [Modul 2](https://github.com/KenanyaKAP/Basic-Calculator/blob/main/Modular%20Calculator/README.md#2-1)
+- Sama persis dengan [Modul 2](https://github.com/KenanyaKAP/Basic-Calculator/tree/main/Modular%20Calculator#2-1)
 - Hanya saja menggunakan perulangan for
 - Bisa dicoba untuk mengganti-ganti sesuai versi sendiri
 
@@ -311,7 +311,7 @@ Dst
     }
 ```
 - Penjelasan:
-- Cara kerja masih sama dengan [Modul 2](https://github.com/KenanyaKAP/Basic-Calculator/blob/main/Modular%20Calculator/README.md#2-1) dan [Modul 3](https://github.com/KenanyaKAP/Basic-Calculator/blob/main/Modular%20Calculator/README.md#3-1), hanya saja ini menggunakan cara pointer
+- Cara kerja masih sama dengan [Modul 2](https://github.com/KenanyaKAP/Basic-Calculator/tree/main/Modular%20Calculator#2-1) dan [Modul 3](https://github.com/KenanyaKAP/Basic-Calculator/tree/main/Modular%20Calculator#3-1), hanya saja ini menggunakan cara pointer
 - Sedikit lebih susah karena harus memahami konsep pointer, memory, dan dereferencing
 - Jika ingin memahami lebih lanjut mengenai pointer, silahkan lihat [video ini](https://www.youtube.com/watch?v=h-HBipu_1P0).
 
