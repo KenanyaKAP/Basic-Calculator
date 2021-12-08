@@ -12,7 +12,15 @@ Bonus Poin pada kalkulator modular bisa bervariasi mulai dari 1 - 4 tergantung d
 
 # How To Use
 - Program kalkulator ini sudah disiapkan modular
-- Tinggal pilih salah satu secara bebas dari setiap modul
+- Modul yang tersedia adalah
+  - [Modul Input string](https://github.com/KenanyaKAP/Basic-Calculator/tree/main/Modular%20Calculator#modul-input-string)
+  - [Modul Hapus Spasi](https://github.com/KenanyaKAP/Basic-Calculator/tree/main/Modular%20Calculator#modul-hapus-spasi)
+  - [Modul Validasi Input](https://github.com/KenanyaKAP/Basic-Calculator/tree/main/Modular%20Calculator#modul-validasi-input)
+  - [Modul Pemisah Angka dan Operator](https://github.com/KenanyaKAP/Basic-Calculator/tree/main/Modular%20Calculator#modul-pemisah-angka-dan-operator)
+  - [Modul Operator Pangkat (^)](https://github.com/KenanyaKAP/Basic-Calculator/tree/main/Modular%20Calculator#modul-operator-pangkat-)
+  - [Modul Operator Kali dan Bagi (* /)](https://github.com/KenanyaKAP/Basic-Calculator/tree/main/Modular%20Calculator#modul-operator-kali-dan-bagi--)
+  - [Modul Terakhir (+ -) dan Print Hasil](https://github.com/KenanyaKAP/Basic-Calculator/tree/main/Modular%20Calculator#modul-terakhir----dan-print-hasil)
+- Dalam setiap Modul, terdapat minimal 3 jenis kode yang berbeda
 - Setiap modul diprogram untuk bisa bekerja satu dengan lainnya
 - Kalkulator minimal harus ada `Modul Input string`, `Modul Hapus Spasi`, `Modul Pemisah Angka dan Operator`, dan `Modul Terakhir (+ -) dan Print Hasil`
 - Selebihnya bisa dipakai atau tidak, sesuai dengan nilai yang ingin didapat :v (Jangan lupa kalau pakai modul juga dipahami)
