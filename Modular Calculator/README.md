@@ -25,6 +25,7 @@ Bonus Poin pada kalkulator modular bisa bervariasi mulai dari 1 - 4 tergantung d
 - Kalkulator minimal harus ada `Modul Input string`, `Modul Hapus Spasi`, `Modul Pemisah Angka dan Operator`, dan `Modul Terakhir (+ -) dan Print Hasil`
 - Selebihnya bisa dipakai atau tidak, sesuai dengan nilai yang ingin didapat :v (Jangan lupa kalau pakai modul juga dipahami)
 - Secara minimal, kalkulator sudah bisa mendapatkan 1 Bonus yaitu input lebih dari 1 digit
+- Contoh penggunaan bisa dilihat [di sini](https://github.com/KenanyaKAP/Basic-Calculator/tree/main/Modular%20Calculator#contoh-penggunaan)
 
 # Base Code
 ```c
